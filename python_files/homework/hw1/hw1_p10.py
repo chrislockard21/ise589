@@ -8,10 +8,19 @@ without using conditional statements.
 
 '''
 
-from datetime import date
-
 print('Input:')
-month_int = int(input('Enter Integer: '))
 
-month = date(2018, month_int, 1).strftime('%B')
-print('\nOutput:\nMonth is: ' + month)
+try:
+    month_int = input('Enter Integer: ')
+
+    # Defines dictionary to look up month names
+    month_dict = {
+        '1':'January', '2':'February', '3':'March', '4':'April', '5':'May',
+        '6':'June', '7':'July', '8':'August', '9':'September', '10':'October',
+        '11':'November', '12':'December',
+    }
+
+    print('Month is:', month_dict[month_int])
+
+except:
+    print('Please enter a whole number between 1 and 12.')

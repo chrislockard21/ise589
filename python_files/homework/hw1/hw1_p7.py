@@ -10,12 +10,18 @@ of rectangle.
 
 print('Input:')
 
-height = int(input('Please provide height (in): '))
-width = int(input('Please provide width (in): '))
+# Accepts input for the height and width of a rectanble
+# Ensures the user entered a number
+try:
+    height = float(input('Please provide height (in): '))
+    width = float(input('Please provide width (in): '))
 
-print(
-    '\nOutput:\n'
-    + 'The area of the rectangle is: '
-    + str(width*height)
-    + ' sq. in'
-)
+    print(
+        '\nOutput:\n'
+        + 'The area of the rectangle is: '
+        + str(format(width*height, '.2f'))
+        + ' sq. in'
+    )
+    
+except:
+    print('Please enter a number.')

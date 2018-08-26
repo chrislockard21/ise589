@@ -7,8 +7,14 @@ Write a program that converts F to C and displays C in the console.
 
 '''
 
-F = int(input('Please provide todays temperature in F: '))
+# Ensures the user enters a number
+try:
+    F = float(input('Please provide todays temperature in F: '))
 
-C = (5/9)*(F-32)
+    # Calculates the temperature in C
+    C = (5/9)*(F-32)
 
-print('Todays temperature in C is: ', C)
+    print('Todays temperature in C is: ', format(C, '.2f'))
+    
+except:
+    print('Please enter a number.')
