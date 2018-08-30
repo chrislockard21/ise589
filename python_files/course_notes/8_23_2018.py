@@ -64,6 +64,8 @@ print(x[0:0])
 # Retunrs an empty list because slicing uses the absolute position. To retreive
 # the first intity you must start at one or use the syntax below
 print(x[:1])
+# In slice notation, the end of the split variable (var) includes only var-1
+# entities hence why x[0:0] doesn't work
 
 # Prints the first three entities of a list including 0, 1, and 2 indicies
 print(x[:3])
@@ -150,6 +152,39 @@ a = set([1,2,3,6,7,8,33,7,7,99])
 b = set([3,1,6,100,3,21])
 
 # Operations for comparing sets
+
+# Items in sets must be unique, If you printed a set it would only show one of
+# each item represented
+
+# Items in a or b or both
 print(a|b)
+
+# Items in a and b
+print(a&b)
+
+# Items in a or b but not both
+print(a^b)
+
+# All items in a but not b
 print(a-b)
+
 # These help filter the sets to return what your looking for
+
+
+# Special Methods
+#-------------------------------------------------------------------------------
+
+# Strip
+text = 'Hello there my name is chris'
+split_text = text.split()
+print(split_text)
+# Splits with space by defailt but can accept any combination of characters
+
+# Join used to create string from list
+fillerstr = '--'
+join_text = fillerstr.join(split_text)
+
+# Replace
+character = 'chris'
+new_character = 'I am new'
+new = text.replace(character, new_character)

@@ -15,13 +15,17 @@ print('Input:')
 try:
     height = float(input('Please provide height (in): '))
     width = float(input('Please provide width (in): '))
-
+    prem_mult = float(2)
+    print(prem_mult*height)
     print(
         '\nOutput:\n'
         + 'The area of the rectangle is: '
-        + str(format(width*height, '.2f'))
-        + ' sq. in'
+        + str(format(width*height, '.0f'))
+        + ' sq. in\n'
+        + 'The perimeter of the rectangle is: '
+        + str(format((width*prem_mult)+(height*prem_mult), '.0f'))
+        + ' in'
     )
-    
+
 except:
     print('Please enter a number.')

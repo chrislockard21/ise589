@@ -26,6 +26,6 @@ try:
     # of the weeks calculation)
     days = (days%365)%7
     print('Days:', days)
-    
+
 except:
-    print('Please enter a whole number')
+    print('Please enter a whole non-negative number')
