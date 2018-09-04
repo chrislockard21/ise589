@@ -1,4 +1,11 @@
+'''
 
+@author: Chris Lockard
+
+Problem 1:
+Answer the parts
+
+'''
 
 a = [1, 11, 2, 3, 5, 8, 13, 10, 21, 34, 55, -1]
 
