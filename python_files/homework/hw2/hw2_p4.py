@@ -33,14 +33,14 @@ def prime(number):
     return is_prime
 
 # Accepts user input and prints weather the number is prime or not
-number = int(input('Please enter a whole number:'))
+number = int(input('Please enter a whole number: '))
 prime_status = prime(number)
-print(prime_status)
+print('Prime status: ' + str(prime_status) + '\n')
 
 
 # Accepts the upper limit of a range from the user
-user_range = int(input('Whole number please: '))
+user_range = int(input('Please enter a whole number: '))
 
 # Appends a list with all prime numbers in the range
-prime_list = [str(num) for num in range(user_range) if prime(num) == True]
+prime_list = [str(num) for num in range(user_range + 1) if prime(num) == True]
 print('All prime numbers in this range:\n' + ' '.join(prime_list))
