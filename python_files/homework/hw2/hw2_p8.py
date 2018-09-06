@@ -20,8 +20,13 @@ def roc_p_sci(pick):
     Returns the verdict of the game
     '''
 
+    # Defines computers choices
     choices = ['rock', 'paper', 'scissors']
+
+    # Picks a choice
     comp_pick = random.choice(choices)
+
+    # Logic to determine the winner
     if pick == comp_pick:
         return 'tie'
     elif pick == 'rock' and comp_pick == 'paper':
@@ -45,6 +50,7 @@ i = 0
 comp = 0
 user = 0
 
+# Determines the victor of all games and the match
 while i < attempts:
     i+=1
     pick = input('\nInput:\nAttempt {}: Show your Hand: '.format(i))
