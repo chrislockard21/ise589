@@ -1,0 +1,43 @@
+CNC machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. The process can be used to control a range of complex machinery, from grinders and lathes to mills and routers. With CNC machining, three-dimensional cutting tasks can be accomplished in a single set of prompts.
+
+Short for “computer numerical control,” the CNC process runs in contrast to — and thereby supersedes — the limitations of manual control, where live operators are needed to prompt and guide the commands of machining tools via levers, buttons and wheels. To the onlooker, a CNC system might resemble a regular set of computer components, but the software programs and consoles employed in CNC machining distinguish it from all other forms of computation.
+
+When a CNC system is activated, the desired cuts are programmed into the software and dictated to corresponding tools and machinery, which carry out the dimensional tasks as specified, much like a robot.
+
+In CNC programming, the code generator within the numerical system will often assume mechanisms are flawless, despite the possibility of errors, which is greater whenever a CNC machine is directed to cut in more than one direction simultaneously. The placement of a tool in a numerical control system is outlined by a series of inputs known as the part program.
+
+With a numerical control machine, programs are inputted via punch cards. By contrast, the programs for CNC machines are fed to computers though small keyboards. CNC programming is retained in a computer’s memory. The code itself is written and edited by programmers. Therefore, CNC systems offer far more expansive computational capacity. Best of all, CNC systems are by no means static, since newer prompts can be added to pre-existing programs through revised code.
+
+In CNC, machines are operated via numerical control, wherein a software program is designated to control an object. The language behind CNC machining is alternately referred to as G-code, and it’s written to control the various behaviors of a corresponding machine, such as the speed, feed rate and coordination.
+
+Basically, CNC machining makes it possible to pre-program the speed and position of machine tool functions and run them via software in repetitive, predictable cycles, all with little involvement from human operators. Due to these capabilities, the process has been adopted across all corners of the manufacturing sector and is especially vital in the areas of metal and plastic production.
+
+For starters, a 2D or 3D CAD drawing is conceived, which is then translated to computer code for the CNC system to execute. After the program is inputted, the operator gives it a trial run to ensure no mistakes are present in the coding.
+
+Open/Closed-Loop Machining Systems
+Position control is determined through an open-loop or closed-loop system. With the former, the signaling runs in a single direction between the controller and motor. With a closed-loop system, the controller is capable of receiving feedback, which makes error correction possible. Thus, a closed-loop system can rectify irregularities in velocity and position.
+
+In CNC machining, movement is usually directed across X and Y axes. The tool, in turn, is positioned and guided via stepper or servo motors, which replicate exact movements as determined by the G-code. If the force and speed are minimal, the process can be run via open-loop control. For everything else, closed-loop control is necessary to ensure the speed, consistency and accuracy required for industrial applications, such as metalwork.
+
+CNC Machining is Fully Automated
+In today’s CNC protocols, the production of parts via pre-programmed software is mostly automated. The dimensions for a given part are set into place with computer-aided design (CAD) software and then converted into an actual finished product with computer-aided manufacturing (CAM) software.
+
+Any given work piece could necessitate a variety of machine tools, such as drills and cutters. In order to accommodate these needs, many of today’s machines combine several different functions into one cell. Alternately, an installation might consist of several machines and a set of robotic hands that transfer parts from one application to another, but with everything controlled by the same program. Regardless of the setup, the CNC process allows for consistency in parts production that would be difficult, if not impossible, to replicate manually.
+
+TYPES OF CNC MACHINES
+The earliest numerical control machines date to the 1940s when motors were first employed to control the movement of pre-existing tools. As technologies advanced, the mechanisms were enhanced with analog computers, and ultimately with digital computers, which led to the rise of CNC machining.
+
+The vast majority of today’s CNC arsenals are completely electronic. Some of the more common CNC-operated processes include ultrasonic welding, hole-punching and laser cutting. The most frequently used machines in CNC systems include the following:
+
+CNC Mills
+CNC mills are capable of running on programs comprised of number- and letter-based prompts, which guide pieces across various distances. The programming employed for a mill machine could be based on either G-code or some unique language developed by a manufacturing team. Basic mills consist of a three-axis system (X, Y and Z), though most newer mills can accommodate three additional axes.
+
+CNC machining is one of the most critical functions of the manufacturing sector, from the production of computer parts and fasteners to auto parts and aerospace components. Without the high-tech capabilities unique to CNC machines, various components seen on everyday household items would be nearly impossible to produce. As the engineers who’ve undergone CNC machine training will attest, the coding that makes it possible for a CNC machine to mold metal parts into shape is complex.
+
+At Astro Machine Works, Inc. we’ve specialized in the making of custom machines and fabrication for more than a quarter of a century. Our CNC machines are programmed to the exact specifications of each customer by our team of in-house experts. Additionally, we’ve expanded into several related areas of expertise, including machine design, panel wiring, reverse engineering and metal fabrication.
+
+Having satisfied a vast range of clients across the industrial sector over the past 25+ years, we understand the importance of delivering things on time and exactly to the customer’s specifications. By the same token, we understand customers often have questions about the various aspects of CNC machining. At Astro Machine Works, Inc., we make it a point to answer all questions about the pieces and parts we prepare for customers.
+
+Another extension of our capabilities here at Astro Machine Works, Inc. is our expertise in the various tools and processes of CNC machining, from lathes and saws to routers and turning centers. Furthermore, our reverse engineering service allows us to customize parts for pre-existing or outdated components. These services and others are performed at our Ephrata, Pennsylvania headquarters. Visit our website for more information on our machining capabilities.
+
+

@@ -27,19 +27,19 @@ def roc_p_sci(pick):
     comp_pick = random.choice(choices)
 
     # Logic to determine the winner
-    if pick == comp_pick:
+    if pick.lower() == comp_pick:
         return 'tie'
-    elif pick == 'rock' and comp_pick == 'paper':
+    elif pick.lower() == 'rock' and comp_pick == 'paper':
         return ('comp', comp_pick)
-    elif pick == 'rock' and comp_pick == 'scissors':
+    elif pick.lower() == 'rock' and comp_pick == 'scissors':
         return ('user', comp_pick)
-    elif pick == 'paper' and comp_pick == 'rock':
+    elif pick.lower() == 'paper' and comp_pick == 'rock':
         return ('user', comp_pick)
-    elif pick == 'paper' and comp_pick == 'scissors':
+    elif pick.lower() == 'paper' and comp_pick == 'scissors':
         return ('comp', comp_pick)
-    elif pick == 'scissors' and comp_pick == 'rock':
+    elif pick.lower() == 'scissors' and comp_pick == 'rock':
         return ('comp', comp_pick)
-    elif pick == 'scissors' and comp_pick == 'paper':
+    elif pick.lower() == 'scissors' and comp_pick == 'paper':
         return ('user', comp_pick)
 
 print('Input:')
@@ -85,7 +85,6 @@ elif user > comp:
         '\nOutput:\nCongradulations {}, you won the game!'
         ' Sorry, Computer, you lost.\n\nFinal Score: {} - {};'
         ' Computer - {}'.format(name, name, user, comp)
-
     )
 else:
     print('Tie game! Thanks for playing!')

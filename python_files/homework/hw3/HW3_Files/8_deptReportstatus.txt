@@ -1,0 +1,694 @@
+Project ID	Direct Sponsor	Prime Sponsor	Amount Awarded	Project Start	Project End	Faculty 0			
+(1406) 2019-0400	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	179725	7/1/2018	6/30/2019	Faculty 2	Faculty 3	Faculty 4	
+									
+									
+									
+(1406) 2019-0316	"Mitsubishi Hitachi Tool Engineering, Ltd."	"Mitsubishi Hitachi Tool Engineering, Ltd."	120248	7/1/2018	8/31/2019	Faculty 5	Faculty 6	Faculty 7	
+									
+									
+									
+(1406) 2019-0100	Center for Additive Manufacturing and Logistics - (CAMAL)	Center for Additive Manufacturing and Logistics - (CAMAL)	20741	7/1/2018	12/31/2018	Faculty 6	Faculty 7	Faculty 8	
+									
+									
+									
+(1406) 2019-0073	Center for Additive Manufacturing and Logistics - (CAMAL)	Center for Additive Manufacturing and Logistics - (CAMAL)	50801	7/1/2018	6/30/2019	Faculty 9	Faculty 7	Faculty 6	
+									
+									
+									
+(1406) 2018-3441	National Science Foundation (NSF)	National Science Foundation (NSF)	99998	9/1/2018	8/31/2019	Faculty 10			
+									
+									
+									
+(1406) 2018-3354	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	9224	1/1/2018	6/30/2018	Faculty 3	Faculty 2	Faculty 4	Faculty 11
+									
+									
+									
+(1406) 2018-3259	National Science Foundation (NSF)	National Science Foundation (NSF)	99999	9/1/2018	8/31/2019	Faculty 12	Faculty 13		
+									
+									
+									
+(1406) 2018-3141	Southeastern Regional Medical Center (SRMC)	Southeastern Regional Medical Center (SRMC)	50765	6/1/2018	5/31/2019	Faculty 14	Faculty 15	Faculty 10	Faculty 16
+									
+									
+									
+(1402) 2018-3065	Texas A&M Engineering Experiment Station	US Dept. of Energy (DOE)	30635	3/1/2018	2/28/2019	Faculty 17	Faculty 13		
+									
+									
+									
+(1406) 2018-2183	"Caterpillar, Inc."	"Caterpillar, Inc."	2500	2/25/2018	6/30/2018	Faculty 18	Faculty 19		
+									
+									
+									
+(1406) 2018-2175	"Trans Machine Additive, LLC "	"Trans Machine Additive, LLC "	25000	1/1/2018	12/31/2022	Faculty 9			
+									
+									
+									
+(1475) 2018-1907	National Science Foundation (NSF)	National Science Foundation (NSF)	695668	8/1/2018	7/31/2019	Faculty 20	Faculty 5	Faculty 21	Faculty 22
+									
+									
+									
+(1406) 2018-1855	National Science Foundation (NSF)	National Science Foundation (NSF)	749542	9/1/2018	8/31/2021	Faculty 2	Faculty 4	Faculty 23	Faculty 24
+									
+									
+									
+(1406) 2018-1768	National Science Foundation (NSF)	National Science Foundation (NSF)	618910	9/1/2018	8/31/2021	Faculty 25	Faculty 14	Faculty 26	
+									
+									
+									
+(1406) 2018-1583	General Motors Corp.	General Motors Corp.	63880	6/25/2018	12/24/2018	Faculty 7			
+									
+									
+									
+(1406) 2018-1436	SLAC National Accelerator Laboratory	US Dept. of Energy (DOE)	2555	6/27/2018	8/31/2019	Faculty 7			
+									
+									
+									
+(1406) 2018-1377	Siemens	Siemens	37500	1/1/2018	12/31/2022	Faculty 9			
+									
+									
+									
+(1406) 2018-1232	UNC - UNC Chapel Hill	Centers for Disease Control & Prevention	65464	9/30/2017	9/29/2018	Faculty 15			
+									
+									
+									
+(1406) 2018-1226	National Science Foundation (NSF)	National Science Foundation (NSF)	191223	4/1/2018	3/31/2020	Faculty 12			
+									
+									
+									
+(1419) 2018-0826	National Science Foundation (NSF)	National Science Foundation (NSF)	499773	10/1/2018	9/30/2021	Faculty 27	Faculty 28	Faculty 12	
+									
+									
+									
+(1406) 2018-0680	National Science Foundation (NSF)	National Science Foundation (NSF)	32000	10/1/2017	9/30/2018	Faculty 15			
+									
+									
+									
+(1406) 2018-0554	Durham VA Medical Center	US Dept. of Veterans Affairs (VA)	240412	9/1/2017	8/31/2019	Faculty 29			
+									
+									
+									
+(1406) 2017-3237	Center for Additive Manufacturing and Logistics - (CAMAL)	Center for Additive Manufacturing and Logistics - (CAMAL)	36815	7/1/2017	6/30/2018	Faculty 9	Faculty 30	Faculty 31	
+									
+									
+									
+(1406) 2017-3226	Center for Additive Manufacturing and Logistics - (CAMAL)	Center for Additive Manufacturing and Logistics - (CAMAL)	44552	7/1/2017	6/30/2018	Faculty 9	Faculty 7	Faculty 6	
+									
+									
+									
+(1406) 2017-3148	"General Motors Holdings, LLC"	"General Motors Holdings, LLC"	37500	1/1/2017	12/31/2021	Faculty 9			
+									
+									
+									
+(1645) 2017-2884	NC Department of Transportation	NC Department of Transportation	199950	7/1/2017	2/28/2019	Faculty 23	Faculty 11	Faculty 32	
+									
+									
+									
+(1406) 2017-2851	National Science Foundation (NSF)	National Science Foundation (NSF)	107376	8/15/2017	12/31/2018	Faculty 25			
+									
+									
+									
+(1108) 2017-2798	"NC Agricultural Foundation, Inc"	"NC Agricultural Foundation, Inc"	49915	7/1/2016	6/30/2018	Faculty 33	Faculty 7		
+									
+									
+									
+(1406) 2017-2548	"The Institute of Electrical and Electronics Engineers, Incorporated (IEEE)"	"The Institute of Electrical and Electronics Engineers, Incorporated (IEEE)"	19509	4/1/2017	12/31/2018	Faculty 11			
+									
+									
+									
+(1406) 2017-2205	"Radiabeam Technologies, LLC"	US Navy - Naval Air Warfare Center	162897	4/8/2018	1/20/2020	Faculty 7			
+									
+									
+									
+(1406) 2017-2119	"Mitsubishi Hitachi Tool Engineering, Ltd."	"Mitsubishi Hitachi Tool Engineering, Ltd."	99325	5/1/2017	4/30/2018	Faculty 5	Faculty 7	Faculty 6	
+									
+									
+									
+(1402) 2017-2054	Smart Manufacturing Leadership Coalition (SMLC)	US Dept. of Energy (DOE)	279503	1/1/2017	2/28/2018	Faculty 17	Faculty 13		
+									
+									
+									
+(1406) 2017-2001	"Calabazas Creek Research, Inc"	US Dept. of Energy (DOE)	84781	6/12/2017	5/11/2018	Faculty 7	Faculty 6		
+									
+									
+									
+(1406) 2017-1923	"UES, Inc."	US Navy	35974	6/1/2017	12/1/2017	Faculty 5	Faculty 34	Faculty 7	Faculty 6
+									
+									
+									
+(1409) 2017-1842	National Science Foundation (NSF)	National Science Foundation (NSF)	1296937	7/1/2017	6/30/2021	Faculty 35	Faculty 36	Faculty 37	
+									
+									
+									
+(1406) 2017-1586	John Deere Co.	John Deere Co.	30000	1/9/2017	10/28/2017	Faculty 4	Faculty 38	Faculty 11	Faculty 39
+									
+									
+									
+(1406) 2017-1470	ATI Specialty Alloys and Components	ATI Specialty Alloys and Components	37500	1/1/2017	12/31/2021	Faculty 9			
+									
+									
+									
+(1406) 2017-1392	UNC - NC  A & T State University	National Science Foundation (NSF)	264660	8/1/2017	7/31/2019	Faculty 10	Faculty 40		
+									
+									
+									
+(1406) 2017-1381	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	84313	1/1/2017	12/31/2017	Faculty 15			
+									
+									
+									
+(0635) 2017-1369	Game-Changing Research Incentive Program (GRIP)	Game-Changing Research Incentive Program (GRIP)	449996	2/1/2017	1/31/2019	Faculty 41	Faculty 42	Faculty 43	Faculty 44
+									
+									
+									
+(1406) 2017-0963	National Science Foundation (NSF)	National Science Foundation (NSF)	203641	9/1/2017	8/31/2020	Faculty 44			
+									
+									
+									
+(1406) 2017-0866	National Science Foundation (NSF)	National Science Foundation (NSF)	50000	12/1/2016	3/31/2018	Faculty 12	Faculty 45		
+									
+									
+									
+(1404) 2017-0247	NCSU PowerAmerica: Next Generation Electronics Manufacturing Innovation Institute	NCSU PowerAmerica: Next Generation Electronics Manufacturing Innovation Institute	122101	6/15/2016	6/30/2018	Faculty 46	Faculty 5	Faculty 47	Faculty 48
+									
+									
+									
+(1409) 2017-0173	National Institutes of Health (NIH)	National Institutes of Health (NIH)	139195	8/2/2016	5/31/2019	Faculty 49	Faculty 7		
+									
+									
+									
+(1406) 2017-0154	National Science Foundation (NSF)	National Science Foundation (NSF)	500000	6/1/2017	5/31/2022	Faculty 44			
+									
+									
+									
+(1406) 2017-0103	"Praxair Surface Technologies, Inc."	"Praxair Surface Technologies, Inc."	37500	1/1/2016	12/31/2020	Faculty 9			
+									
+									
+									
+(1406) 2016-2936	"AKG North America, Inc."	"AKG North America, Inc."	34375	6/1/2016	12/31/2020	Faculty 9			
+									
+									
+									
+(1406) 2016-2534	Christiana Care Health System	National Science Foundation (NSF)	74109	10/1/2015	9/30/2018	Faculty 10	Faculty 15	Faculty 14	Faculty 40
+									
+									
+									
+(1406) 2016-2454	Digital Manufacturing and Design Innovation Institute (DMDII)	US Dept. of Defense (DOD)	194618	7/25/2016	7/24/2017	Faculty 12	Faculty 50	Faculty 13	
+									
+									
+									
+(1406) 2016-2384	"Praxair Surface Technologies, Inc."	"Praxair Surface Technologies, Inc."	30000	11/1/2015	2/28/2017	Faculty 11			
+									
+									
+									
+(1406) 2016-2035	"Radiabeam Technologies, LLC"	US Navy	20000	6/15/2016	9/10/2017	Faculty 7			
+									
+									
+									
+(1406) 2016-1866	"Community Care of North Carolina Services, Inc."	US Dept. of Health & Human Services (DHHS)	153939	9/1/2015	8/31/2018	Faculty 10	Faculty 51		
+									
+									
+									
+(1406) 2016-1825	"3D Systems, Inc. "	"3D Systems, Inc. "	7500	1/1/2016	12/31/2016	Faculty 9			
+									
+									
+									
+(1406) 2016-1559	UNC Orthopaedics	UNC Orthopaedics	1600	12/1/2015	1/31/2016	Faculty 7			
+									
+									
+									
+(1406) 2016-1075	University of California - Berkeley	Defense Advanced Research Projects Agency  (DARPA)	157346	4/1/2016	4/12/2018	Faculty 7			
+									
+									
+									
+(1406) 2016-1057	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	80514	1/1/2016	12/31/2016	Faculty 15			
+									
+									
+									
+(1406) 2016-0919	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	79578	1/1/2016	12/31/2016	Faculty 14			
+									
+									
+									
+(1406) 2016-0659	National Science Foundation (NSF)	National Science Foundation (NSF)	302583	6/1/2016	5/31/2019	Faculty 12	Faculty 44		
+									
+									
+									
+(1406) 2016-0595	National Aeronautics & Space Administration (NASA)	National Aeronautics & Space Administration (NASA)	150000	11/1/2015	3/31/2017	Faculty 11	Faculty 52		
+									
+									
+									
+(1406) 2016-0441	General Electric (GE) -Hitachi 	General Electric (GE) -Hitachi 	37500	1/1/2016	12/31/2020	Faculty 9			
+									
+									
+									
+(1406) 2016-0150	Ingersoll Rand Industrial Technologies	Ingersoll Rand Industrial Technologies	37500	1/1/2015	12/31/2019	Faculty 9			
+									
+									
+									
+(1406) 2016-0046	UNC - UNC Chapel Hill	National Science Foundation (NSF)	164032	5/1/2016	4/30/2019	Faculty 3			
+									
+									
+									
+(1406) 2016-0044	UNC - UNC Chapel Hill	UNC - UNC Chapel Hill	24380	8/16/2014	12/31/2015	Faculty 10			
+									
+									
+									
+(1475) 2016-0010	UNC - UNC Chapel Hill	Orthopaedic Research and Education Foundation	250000	7/1/2015	6/30/2018	Faculty 43	Faculty 53	Faculty 44	
+									
+									
+									
+(1406) 2015-3269	New York City College of Technology 	National Aeronautics & Space Administration (NASA)	110910	8/31/2016	7/13/2019	Faculty 5			
+									
+									
+									
+(1406) 2015-3261	Concurrent Technologies Corporation	US Navy-Office Of Naval Research	15557	3/18/2016	5/31/2017	Faculty 5			
+									
+									
+									
+(1406) 2015-3203	Sindre Metals Inc.	National Science Foundation (NSF)	99422	1/1/2016	3/1/2017	Faculty 5	Faculty 7		
+									
+									
+									
+(1406) 2015-3025	"ABB, Inc"	"ABB, Inc"	37500	1/1/2015	12/31/2019	Faculty 9			
+									
+									
+									
+(1406) 2015-3010	National Science Foundation (NSF)	National Science Foundation (NSF)	319752	9/1/2015	6/30/2018	Faculty 12	Faculty 50	Faculty 54	Faculty 13
+									
+									
+									
+(1406) 2015-2949	ATI Specialty Materials	ATI Specialty Materials	37500	1/1/2015	12/31/2019	Faculty 9			
+									
+									
+									
+(1406) 2015-2793	University of Cincinnati	US Navy-Office Of Naval Research	17000	7/6/2015	5/1/2016	Faculty 5	Faculty 7	Faculty 8	
+									
+									
+									
+(1406) 2015-2242	UNC - UNC Chapel Hill	Centers for Disease Control & Prevention	163008	9/30/2015	9/29/2017	Faculty 15			
+									
+									
+									
+(1108) 2015-2193	NCSU Research and Innovation Seed Funding Program	NCSU Research and Innovation Seed Funding Program	24723	7/1/2015	6/30/2016	Faculty 33	Faculty 55	Faculty 7	
+									
+									
+									
+(1406) 2015-2159	US Army - Army Research Office	US Army - Army Research Office	438355	6/5/2015	9/1/2019	Faculty 56			
+									
+									
+									
+(1406) 2015-2075	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	51378	3/24/2015	12/31/2015	Faculty 14			
+									
+									
+									
+(1406) 2015-2069	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	52660	3/24/2015	12/31/2015	Faculty 15			
+									
+									
+									
+(1950) 2015-1654	DePuy Synthes	DePuy Synthes	0	3/30/2015	3/29/2016	Faculty 57	Faculty 5	Faculty 7	
+									
+									
+									
+(1406) 2015-1456	Center for Additive Manufacturing and Logistics - (CAMAL)	Center for Additive Manufacturing and Logistics - (CAMAL)	1	1/1/2015	12/31/2019	Faculty 9			
+									
+									
+									
+(1406) 2015-1450	GE Industrial Solutions 	GE Industrial Solutions 	7500	1/1/2015	12/31/2016	Faculty 9	Faculty 5		
+									
+									
+									
+(1406) 2015-1370	National Science Foundation (NSF)	National Science Foundation (NSF)	850275	10/1/2015	9/30/2019	Faculty 10	Faculty 15	Faculty 14	Faculty 40
+									
+									
+									
+(2020) 2015-1073	VentureWell (formerly know as National Collegiate Inventors & Innovators Alliance)	VentureWell (formerly know as National Collegiate Inventors & Innovators Alliance)	32000	3/1/2015	8/31/2018	Faculty 58	Faculty 59	Faculty 5	
+									
+									
+									
+(1406) 2015-0931	Youngstown State University	US Dept. of Commerce (DOC)	110610	9/15/2015	7/31/2017	Faculty 60	Faculty 5		
+									
+									
+									
+(1406) 2015-0831	NC Department of Transportation	NC Department of Transportation	173006	2/1/2015	7/15/2016	Faculty 11			
+									
+									
+									
+(1406) 2015-0757	Brumby Chair Company	Brumby Chair Company	3000	9/2/2014	12/31/2014	Faculty 9			
+									
+									
+									
+(1406) 2015-0711	University of Washington	National Science Foundation (NSF)	70119	8/1/2015	11/10/2018	Faculty 10	Faculty 61		
+									
+									
+									
+(1406) 2015-0663	"William R. Kenan, Jr. Charitable Trust"	"William R. Kenan, Jr. Charitable Trust"	22000	10/1/2014	6/30/2015	Faculty 44	Faculty 43		
+									
+									
+									
+(1406) 2014-3127	"Clinton Health Access Initiative, Inc. (CHAI)"	Department for International Development (DFID)	14963	6/30/2014	7/31/2015	Faculty 10			
+									
+									
+									
+(1406) 2014-2748	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	61858	3/31/2014	5/15/2015	Faculty 3			
+									
+									
+									
+(1406) 2014-2716	Laboratory for Analytic Sciences	Laboratory for Analytic Sciences	80954	3/31/2014	5/15/2015	Faculty 15			
+									
+									
+									
+(1950) 2014-2549	DePuy Synthes	DePuy Synthes	0	6/13/2014	6/12/2015	Faculty 57	Faculty 5		
+									
+									
+									
+(1406) 2014-2262	National Science Foundation (NSF)	National Science Foundation (NSF)	185195	8/15/2014	12/31/2016	Faculty 5	Faculty 57	Faculty 62	
+									
+									
+									
+(1940) 2014-2135	NCSU Research and Innovation Seed Funding Program	NCSU Research and Innovation Seed Funding Program	13500	7/1/2014	6/30/2015	Faculty 63	Faculty 64	Faculty 12	
+									
+									
+									
+(1406) 2014-2129	NCSU Research and Innovation Seed Funding Program	NCSU Research and Innovation Seed Funding Program	15000	7/1/2014	6/30/2015	Faculty 14	Faculty 65	Faculty 66	
+									
+									
+									
+(1406) 2014-1895	National Science Foundation (NSF)	National Science Foundation (NSF)	141862	8/1/2014	7/31/2018	Faculty 14			
+									
+									
+									
+(1406) 2014-1833	National Science Foundation (NSF)	National Science Foundation (NSF)	155394	9/1/2013	5/31/2017	Faculty 15			
+									
+									
+									
+(1406) 2014-1607	"Strong Arm Technologies, Inc."	"Strong Arm Technologies, Inc."	38497	1/1/2014	7/31/2014	Faculty 3	Faculty 67	Faculty 38	
+									
+									
+									
+(1406) 2014-1538	National Science Foundation (NSF)	National Science Foundation (NSF)	499894	8/1/2014	7/31/2019	Faculty 3			
+									
+									
+									
+(1406) 2014-1203	Wake Forest University Health Sciences	NC Department of Commerce	66477	1/1/2014	6/30/2015	Faculty 5	Faculty 60	Faculty 44	
+									
+									
+									
+(1406) 2014-1009	National Center for Defense Manufacturing and Machining 	US Air Force (USAF)	818626	3/1/2014	5/31/2016	Faculty 5	Faculty 60	Faculty 8	Faculty 68
+									
+									
+									
+(1406) 2014-0976	Carnegie Mellon University	US Air Force (USAF)	189999	7/1/2014	12/31/2016	Faculty 5	Faculty 9		
+									
+									
+									
+(1406) 2014-0688	National Science Foundation (NSF)	National Science Foundation (NSF)	149928	6/1/2014	5/31/2018	Faculty 50			
+									
+									
+									
+(1406) 2014-0677	National Science Foundation (NSF)	National Science Foundation (NSF)	241140	7/1/2014	6/30/2018	Faculty 69			
+									
+									
+									
+(1406) 2014-0479	National Science Foundation (NSF)	National Science Foundation (NSF)	106387	6/30/2013	1/31/2015	Faculty 12			
+									
+									
+									
+(1406) 2014-0452	Yale University	National Science Foundation (NSF)	121990	7/1/2013	6/30/2016	Faculty 12			
+									
+									
+									
+(1406) 2014-0105	Pratt & Whitney	National Science Foundation (NSF)	0	4/10/2013	9/30/2017	Faculty 5			
+									
+									
+									
+(1402) 2013-2983	National Science Foundation (NSF)	National Science Foundation (NSF)	999809	12/1/2013	11/30/2017	Faculty 72	Faculty 73	Faculty 74	Faculty 37
+									
+									
+									
+(1406) 2013-2500	Durham VA Medical Center	US Dept. of Veterans Affairs (VA)	460880	8/1/2013	7/31/2017	Faculty 29			
+									
+									
+									
+(1406) 2013-2480	NCSU Faculty Research & Professional Development Fund	NCSU Faculty Research & Professional Development Fund	7000	7/1/2013	6/30/2014	Faculty 44			
+									
+									
+									
+(1406) 2013-2245	NCSU Research and Innovation Seed Funding Program	NCSU Research and Innovation Seed Funding Program	20000	7/1/2013	6/30/2014	Faculty 44	Faculty 75	Faculty 76	
+									
+									
+									
+(1406) 2013-1883	National Science Foundation (NSF)	National Science Foundation (NSF)	279613	9/1/2013	8/31/2018	Faculty 37			
+									
+									
+									
+(1406) 2013-1857	National Science Foundation (NSF)	National Science Foundation (NSF)	130001	9/1/2013	8/31/2017	Faculty 5	Faculty 8	Faculty 7	
+									
+									
+									
+(1406) 2013-1692	Case Western Reserve University	National Center for Defense Manufacturing and Machining 	201572	5/1/2013	8/30/2016	Faculty 5			
+									
+									
+									
+(1406) 2013-1452	SAS Institute Inc.	SAS Institute Inc.	148520	1/7/2013	8/20/2015	Faculty 77			
+									
+									
+									
+(1406) 2012-2041	SAS Institute Inc.	SAS Institute Inc.	124399	5/22/2012	7/31/2014	Faculty 78			
+									
+									
+									
+(1406) 2012-1787	US Army - Army Research Office	US Army - Army Research Office	214997	8/17/2012	7/31/2015	Faculty 56			
+									
+									
+									
+(1406) 2012-1740	National Science Foundation (NSF)	National Science Foundation (NSF)	209556	9/1/2012	8/31/2015	Faculty 78			
+									
+									
+									
+(1406) 2012-1738	National Science Foundation (NSF)	National Science Foundation (NSF)	358017	9/15/2012	8/31/2016	Faculty 37	Faculty 13		
+									
+									
+									
+(1406) 2012-1556	NC Department of Transportation	NC Department of Transportation	133517	7/1/2012	9/30/2013	Faculty 11	Faculty 79	Faculty 80	Faculty 81
+									
+									
+									
+(1406) 2012-0895	"ArgentumCidalElectrics (ACE), Inc."	"ArgentumCidalElectrics (ACE), Inc."	32996	2/8/2012	6/30/2012	Faculty 44	Faculty 82		
+									
+									
+									
+(1406) 2012-0710	NCSU Research and Innovation Seed Funding Program	NCSU Research and Innovation Seed Funding Program	15000	11/1/2011	4/30/2012	Faculty 44	Faculty 82	Faculty 75	
+									
+									
+									
+(1406) 2012-0699	National Science Foundation (NSF)	National Science Foundation (NSF)	200000	9/15/2012	8/31/2014	Faculty 60	Faculty 5		
+									
+									
+									
+(1406) 2012-0593	National Science Foundation (NSF)	National Science Foundation (NSF)	434823	8/15/2011	5/31/2016	Faculty 3			
+									
+									
+									
+(1406) 2012-0227	National Science Foundation (NSF)	National Science Foundation (NSF)	199760	9/1/2011	8/31/2016	Faculty 78			
+									
+									
+									
+(1406) 2012-0078	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	0			Faculty 11			
+									
+									
+									
+(1406) 2012-0045	NCSU Furniture Manufacturing & Management Center	NCSU Furniture Manufacturing & Management Center	255474	7/1/2011	6/30/2015	Faculty 9	Faculty 30		
+									
+									
+									
+(1950) 2011-2306	Morris Animal Foundation	Morris Animal Foundation	4000	6/1/2011	8/31/2011	Faculty 57	Faculty 5		
+									
+									
+									
+(1950) 2011-2055	"Bone Cancer Dogs, Inc."	"Bone Cancer Dogs, Inc."	12000	5/1/2011	8/31/2012	Faculty 57	Faculty 5	Faculty 8	
+									
+									
+									
+(1406) 2011-1750	National Science Foundation (NSF)	National Science Foundation (NSF)	244000	9/1/2011	8/31/2015	Faculty 37	Faculty 35		
+									
+									
+									
+(1406) 2011-1689	Wake Forest University School of Medicine	NC Department of Commerce	128075	1/1/2011	6/30/2012	Faculty 60	Faculty 5	Faculty 50	Faculty 37
+									
+									
+									
+(1406) 2011-1633	Agency for Healthcare Research and Quality (AHRQ) 	Agency for Healthcare Research and Quality (AHRQ) 	35363	9/1/2011	8/31/2012	Faculty 78			
+									
+									
+									
+(1406) 2011-1560	National Science Foundation (NSF)	National Science Foundation (NSF)	155497	3/15/2011	5/31/2013	Faculty 60	Faculty 37	Faculty 5	Faculty 50
+									
+									
+									
+(1406) 2011-1232	SAS Institute Inc.	SAS Institute Inc.	97508	1/14/2011	12/15/2012	Faculty 83			
+									
+									
+									
+(1406) 2011-0428	"Duke University Health System, Inc"	"Duke University Health System, Inc"	48774	8/16/2010	12/31/2011	Faculty 84			
+									
+									
+									
+(1864) 2011-0052	NCSU National Textile Center Program	NCSU National Textile Center Program	69999	5/1/2010	4/30/2012	Faculty 85	Faculty 9	Faculty 86	
+									
+									
+									
+(0620) 2010-2728	Federal Highway Administration (FHWA)	Federal Highway Administration (FHWA)	839062	9/20/2010	8/19/2015	Faculty 87	Faculty 11	Faculty 88	Faculty 32
+									
+									
+									
+(1409) 2010-2331	National Science Foundation (NSF)	National Science Foundation (NSF)	200000	1/1/2011	6/30/2013	Faculty 35	Faculty 89	Faculty 37	Faculty 90
+									
+									
+									
+(1403) 2010-2198	NC Department of Transportation	NC Department of Transportation	33190	6/1/2010	2/28/2011	Faculty 79	Faculty 80	Faculty 11	
+									
+									
+									
+(1406) 2010-1561	National Science Foundation (NSF)	National Science Foundation (NSF)	480095	8/15/2010	7/31/2014	Faculty 25			
+									
+									
+									
+(1406) 2010-1557	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	1417820	7/1/2010	6/30/2018	Faculty 2	Faculty 3	Faculty 4	
+									
+									
+									
+(1406) 2010-1406	University of California - Irvine	Defense Advanced Research Projects Agency  (DARPA)	94610	4/1/2010	1/14/2011	Faculty 5			
+									
+									
+									
+(1406) 2010-0714	National Science Foundation (NSF)	National Science Foundation (NSF)	197457	5/1/2010	4/30/2014	Faculty 10	Faculty 25		
+									
+									
+									
+(1406) 2010-0698	National Science Foundation (NSF)	National Science Foundation (NSF)	330000	8/1/2010	7/31/2014	Faculty 13			
+									
+									
+									
+(1406) 2010-0446	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	159240	7/1/2009	6/30/2010	Faculty 11			
+									
+									
+									
+(1864) 2010-0329	NCSU National Textile Center Program	NCSU National Textile Center Program	104783	5/1/2009	7/31/2011	Faculty 85	Faculty 86	Faculty 9	Faculty 91
+									
+									
+									
+(1406) 2010-0148	NCSU Furniture Manufacturing & Management Center	NCSU Furniture Manufacturing & Management Center	107285	7/1/2009	6/30/2012	Faculty 9			
+									
+									
+									
+(1406) 2010-0142	National Aeronautics & Space Administration (NASA)	National Aeronautics & Space Administration (NASA)	7300	7/1/2009	9/30/2009	Faculty 11			
+									
+									
+									
+(1406) 2009-2776	Durham VA Medical Center	US Dept. of Veterans Affairs (VA)	454800	7/1/2009	5/31/2013	Faculty 29			
+									
+									
+									
+(1406) 2009-2399	SAS Institute Inc.	SAS Institute Inc.	45147	6/1/2009	2/20/2010	Faculty 77			
+									
+									
+									
+(1406) 2009-2314	SAS Institute Inc.	SAS Institute Inc.	144646	5/18/2009	5/14/2012	Faculty 25			
+									
+									
+									
+(1406) 2009-2298	University of Pittsburgh	US Dept. of Veterans Affairs (VA)	29893	9/28/2009	9/27/2011	Faculty 84			
+									
+									
+									
+(1406) 2009-2247	US Army - Army Research Office	US Army - Army Research Office	366404	10/1/2009	12/31/2012	Faculty 56	Faculty 92		
+									
+									
+									
+(1406) 2009-2176	NCSU Faculty Research & Professional Development Fund	NCSU Faculty Research & Professional Development Fund	5000	7/1/2009	6/30/2010	Faculty 37			
+									
+									
+									
+(1406) 2009-1518	National Science Foundation (NSF)	National Science Foundation (NSF)	10000	8/15/2009	7/31/2012	Faculty 25			
+									
+									
+									
+(1406) 2009-1361	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	10000	1/1/2009	6/30/2009	Faculty 11	Faculty 93		
+									
+									
+									
+(1408) 2009-1186	US Navy-Office Of Naval Research	US Navy-Office Of Naval Research	1689861	6/3/2009	12/31/2011	Faculty 94	Faculty 95		
+									
+									
+									
+(1406) 2009-1175	University of Illinois - Urbana-Champaign	National Science Foundation (NSF)	125804	7/1/2008	6/30/2012	Faculty 37			
+									
+									
+									
+(1406) 2009-0746	National Science Foundation (NSF)	National Science Foundation (NSF)	654373	7/1/2009	12/31/2013	Faculty 11	Faculty 50		
+									
+									
+									
+(1406) 2009-0329	Pratt & Whitney	Pratt & Whitney	50713	9/1/2008	12/23/2008	Faculty 96			
+									
+									
+									
+(1406) 2009-0286	SAS Institute Inc.	SAS Institute Inc.	92949	8/20/2008	3/31/2010	Faculty 56			
+									
+									
+									
+(1406) 2009-0179	UNC - UNC Chapel Hill	National Institute for Occupational Safety & Health	133422	7/1/2008	6/30/2009	Faculty 11	Faculty 93		
+									
+									
+									
+(1406) 2009-0098	National Science Foundation (NSF)	National Science Foundation (NSF)	97526	1/1/2009	9/30/2012	Faculty 84			
+									
+									
+									
+(1475) 2008-2447	UNC - UNC Chapel Hill	National Science Foundation (NSF)	214582	7/1/2008	6/30/2012	Faculty 97	Faculty 50		
+									
+									
+									
+(1406) 2008-2133	UNC - UNC Chapel Hill	Centers for Disease Control & Prevention	1102898	9/30/2008	9/29/2013	Faculty 10	Faculty 98	Faculty 25	
+									
+									
+									
+(1406) 2008-2053	UNC - UNC Chapel Hill	Boeing Company	122687	3/1/2008	1/31/2009	Faculty 56			
+									
+									
+									
+(1406) 2008-1973	Purdue University	"Regenstrief Institute, Inc."	25000	4/1/2008	6/30/2010	Faculty 98	Faculty 25		
+									
+									
+									
+(1406) 2008-1801	NCSU Faculty Research & Professional Development Fund	NCSU Faculty Research & Professional Development Fund	6000	7/1/2008	6/30/2009	Faculty 84			
+									
+									
+									
+(1406) 2008-1573	National Aeronautics & Space Administration (NASA)	National Aeronautics & Space Administration (NASA)	60000	5/1/2008	4/30/2010	Faculty 11			
+									
+									
+									
+(1406) 2008-1149	National Science Foundation (NSF)	National Science Foundation (NSF)	39426	4/1/2008	7/31/2008	Faculty 98	Faculty 84	Faculty 10	Faculty 25
+									
+									
+									
+(1864) 2008-1071	NCSU Institute of Textile Technology	NCSU Institute of Textile Technology	33427	1/1/2008	6/30/2009	Faculty 85	Faculty 9	Faculty 86	
+									
+									
+									
+(1864) 2008-1064	NCSU Institute of Textile Technology	NCSU Institute of Textile Technology	33743	1/1/2008	6/30/2009	Faculty 85	Faculty 9	Faculty 86	
+									
+									
+									
+(1406) 2008-0941	NCSU Furniture Manufacturing & Management Center	NCSU Furniture Manufacturing & Management Center	87636	1/1/2008	8/31/2009	Faculty 99			
+									
+									
+									
+(1406) 2008-0922	National Science Foundation (NSF)	National Science Foundation (NSF)	40827	5/31/2008	6/30/2009	Faculty 25			
+									
+									
+									
+(1406) 2008-0896	Mayo Foundation for Medical Education and Research	Agency for Healthcare Research and Quality (AHRQ) 	161133	8/11/2008	7/31/2011	Faculty 84			
+									
+									
+									
+(1406) 2008-0829	US Army - Army Research Office	US Army - Army Research Office	124887	1/23/2008	1/22/2009	Faculty 83			

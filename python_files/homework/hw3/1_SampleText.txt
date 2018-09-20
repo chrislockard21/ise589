@@ -1,0 +1,166 @@
+Accu-Tool is an ISO 9001:2015 registered precision cnc machine shop that specializes in prototypes and low to mid-volume production for OEMs.
+
+ 
+
+Since 1982, we have provided solutions and quality parts to leading medical, aerospace, semi-conductor, robotics, pharmaceutical, electronics, research and development companies, as well as universities.
+
+ 
+
+Our capabilities include 4th-axis CNC milling and turning, Wire and EDM, MIG welding, bead blasting and grinding. We also TIG weld and have Helium leak checking for high-vacuum requirements. Inspection equipment includes Zeiss CMM for full part inspection and documentation, as well as reverse engineering.
+
+ 
+
+We have significant experience machining high temperature metals such as Molybdenum and Tungsten, in addition to more traditional metals and alloys.
+
+ 
+
+We are based in Apex, North Carolina (near Raleigh) and service customers throughout the southeast and globally.
+
+Aerospace and Defense
+
+ 
+
+Since 1982, Accu-Tool has provided quality parts for the aerospace and defense industries. We understand the importance of meeting customer requirements whether it be holding critical dimensions on tight tolerance parts, providing material certifications or packaging parts in VCI bags to inhibit corrosion.  No detail is too small.  We also welcome customers to talk to us about any concerns they have on design and machinability of parts. We frequently have visits from customers regarding design issues as well as prototype vs. production viability of parts. As a custom manufacturer of precision parts and assemblies, we are focused on providing our customers with the highest level of service and partnering with them to develop competitive solutions.
+
+ 
+
+ 
+
+Semiconductor
+
+ 
+
+Accu-Tool has over 30 years of experience machining parts for the semiconductor industry. From the machining of high tech engineered plastics to exotic metals such as molybdenum, tungsten and TZM, we are your source.  We understand the importance of leak-tight welds for parts that will be used in high vacuum applications.  We have on site helium leak check equipment to ensure our welds meet or exceed our customer expectations.
+
+ 
+
+ 
+
+Robotics
+
+ 
+
+For over 30 years, Accu-Tool has manufactured parts for the robotics industry. We consistently provide quick turn-around, cost-effective, high precision, and cosmetically attractive parts for these applications.
+
+ 
+
+ 
+
+Electronics
+
+ 
+
+Electronics companies source Accu-Tool for precision machined parts because of our dedicated staff and complete in house capabilities. We are highly skilled in CNC machining, CNC turning and related precision machining processes. We utilize an impressive variety of state of the art machines in our job shop to fabricate most projects completely in house. All machining is verified by our in house quality staff.
+
+ 
+
+We have a vast array of outside sources for any finishing need allowing us to send our customers finished parts with minimal effort.
+
+ 
+
+ 
+
+Research and Development
+
+ 
+
+We have significant experience working with both R&D firms and universities to develop new parts and devices. With our experience in prototypes and low volume production, we can help bridge the gap between concept and cost effective manufacturing.  Whether it be a hand sketch or a CAD model, we can help take your idea to market.
+
+ 
+
+ 
+
+Our Goal
+
+ 
+
+Our goal is to consistently meet or exceed our customers’ expectations for quality, delivery, and service.  We routinely partner with customers on design issues related to manufacturing in order to help them meet their objectives.  We are ITAR compliant, operate out of a 20,000 square foot secure facility, and have capacity to grow with our customers.
+
+Precision Machining
+
+ 
+
+With an extensive complement of CNC and conventional machining equipment, Accu-Tool produces precision parts involving mill/turn, turning, milling (3rd and 4th Axis), grinding, welding and other supplementary operations. Our equipment set includes the following types:
+
+ 
+
+Milling (20''x 40'' w/4th Axis)
+
+ 
+
+Doosan, DNM5700
+
+Mori Seiki, NHX4000 Horizontal Mill
+
+Mori Seiki, Dura Vertical 5100
+
+Mori Seiki, SV500
+
+Prototrak, FHM7 Bed Mill (3rd Axis, 23''x 60'' travel)
+
+Lagun Manual Mill with Prototrak
+
+ 
+
+Turning (up to 22'' diameter)
+
+ 
+
+Mori Seiki, CNC Lathe, SL-25
+
+Mori Seiki, CNC Lathe, SL-20
+
+Mazak, Quick Turn Smart 100
+
+Hardinge, Manual Lathe
+
+Whacheon, Manual Engine Lathe (24'' x 72'')
+
+ 
+
+Mill/Turn (up to 22” diameter)
+
+ 
+
+Mori Seiki, NLX 4000
+
+Mori Seiki, NL1500 SY
+
+ 
+
+EDM
+
+ 
+
+Fanuc, RoboCut Wire EDM (600x400mm Table Stroke, 310mm in the Z Axis, 1000kg of weight, precision to .0001’’)
+
+Hole Popper, Belmont SyCNC 4060 (.004-.118’’ dia holes, max 12’’ deep)
+
+ 
+
+Fabrication
+
+ 
+
+Our custom metal fabrication services include MIG and TIG welding (all steels and aluminum).  We specialize in high-vacuum welding (with in-house helium leak check equipment) as well as complex framework.
+
+ 
+
+Quality Assurance
+
+ 
+
+Temperature Controlled Quality Lab
+
+Zeiss CMM, Contura G2
+
+1 Helium leak checking devices for vacuum assemblies, systems, etc.
+
+ 
+
+CAD/CAM
+
+ 
+
+Accu-Tool utilizes GibbsCAM® CAD/CAM software extensively to program our CNC machine centers.  Utilizing a sophisticated CAD/CAM solution provides significant benefit to our customers in regards to minimizing setup cost, generating efficient machining solutions for complex parts, and improved quality.  We commonly receive part drawings in the following formats: .dwg, .pdf, .stp, .sldprt, but can accommodate other formats as needed.
+
