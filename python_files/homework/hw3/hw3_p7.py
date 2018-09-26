@@ -53,10 +53,11 @@ def area(v_1, v_2, v_3):
     return area
 
 def tri_area(tri_dict):
+    tot_area = 0
     for k, v in tri_dict.items():
         v_1 = v[0]
         v_2 = v[1]
         v_3 = v[2]
-        print('Triangle id: {}\nArea: {}\n'.format(k, area(v_1, v_2, v_3)))
-
-tri_area(tri_info(vertex_lines))
+        tot_area += area(v_1, v_2, v_3)
+    return tot_area
+print('Total Area: ' + str(tri_area(tri_info(vertex_lines))))
