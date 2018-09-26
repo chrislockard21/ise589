@@ -1,5 +1,13 @@
+'''
+@author: Chris Lockard
+
+HW3 Problem 7
+
+'''
+
 from math import sqrt
 
+# Gets all lines with a vertex
 def filter_vertex(file):
     with open(file, 'r') as f:
         lines = f.readlines()
@@ -12,6 +20,10 @@ def filter_vertex(file):
 vertex_lines = filter_vertex('7_Part1.STL')
 
 def tri_info(vertex_lines):
+    '''
+    Creates dictionary with the triangles verticies as tuples
+    '''
+
     tri_dict = {}
     tri_list = []
     tri_num = 1
@@ -28,6 +40,10 @@ print('Total triangles: ' + str(len(tri_info(vertex_lines))) + '\n')
 
 
 def area(v_1, v_2, v_3):
+    '''
+    Calculates area with the semi perimeter of the triangle
+    '''
+
     dist_1_2 = sqrt(
             ((float(v_2[0]) - float(v_1[0]))**2) +
             ((float(v_2[1]) - float(v_1[1]))**2) +
@@ -53,6 +69,10 @@ def area(v_1, v_2, v_3):
     return area
 
 def tri_area(tri_dict):
+    '''
+    Calculates area with the use of the area function
+    '''
+
     tot_area = 0
     for k, v in tri_dict.items():
         v_1 = v[0]
@@ -60,4 +80,5 @@ def tri_area(tri_dict):
         v_3 = v[2]
         tot_area += area(v_1, v_2, v_3)
     return tot_area
+    
 print('Total Area: ' + str(tri_area(tri_info(vertex_lines))))

@@ -1,7 +1,17 @@
+'''
+@author: Chris Lockard
+
+HW3 Problem 4
+
+'''
+
 with open('4_NoofParts_assem.txt', 'r', encoding='utf_16') as f:
     lines = f.readlines()
+
+    # Deletes header
     del lines[0]
 
+    # Separates words in lines
     rows = [line.split() for line in lines]
 
 sum = 0

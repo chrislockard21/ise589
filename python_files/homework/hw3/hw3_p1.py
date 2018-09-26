@@ -1,3 +1,10 @@
+'''
+@author: Chris Lockard
+
+HW3 Problem 1
+
+'''
+
 with open('1_SampleText.txt', 'r') as f:
     lines = f.readlines()
     cleaned_lines = [line for line in lines if line.replace(' ', '') != '\n']

@@ -1,8 +1,19 @@
+'''
+@author: Chris Lockard
+
+HW3 Problem 6
+
+'''
+
 from zipfile import *
 from collections import OrderedDict
 import datetime as dt
 
 def convert_str(string_date):
+    '''
+    Converts string to datetime object
+    '''
+
     return dt.datetime.strptime(string_date, '%Y-%m-%d')
 
 zip_archive = ZipFile('5_Jobs_Completed_log.zip', 'r')
@@ -11,6 +22,7 @@ sum = 0
 max = 0
 max_date = ''
 job_lines = []
+# Calculates maximum jobs and filters by date
 for file in zip_archive.namelist():
     file_opened = zip_archive.open(file, 'r')
     lines = file_opened.readlines()

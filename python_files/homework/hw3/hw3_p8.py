@@ -1,3 +1,10 @@
+'''
+@author: Chris Lockard
+
+HW3 Problem 8
+
+'''
+
 import datetime as dt
 from datetime import timedelta
 
@@ -9,13 +16,24 @@ with open('8_deptReportstatus.txt') as f:
     ]
 
 def convert_str(string_date):
-    import datetime as dt
+    '''
+    Converts string to date
+    '''
+
     return dt.datetime.strptime(string_date, '%m/%d/%Y')
 
 def faculty(max_line):
+    '''
+    Returns all lines in object that say Faculty
+    '''
+
     return [item for item in max_line if item.startswith('Faculty')]
 
 def faculty_occurances(*args):
+    '''
+    Returns the maximum reward and the faculty responsible for it
+    '''
+
     fac_count = {}
     for arg in args:
         for item in arg:
@@ -32,6 +50,10 @@ def faculty_occurances(*args):
     return max_fac, max
 
 def faculty_occurances_5(*args):
+    '''
+    Provides the count for all Faculty in the PL position for 5 years back
+    '''
+
     fac_count = {}
     for arg in args:
         for item in arg:
@@ -44,6 +66,10 @@ def faculty_occurances_5(*args):
     return fac_count
 
 def det_max(filt_lines, *args):
+    '''
+    Determines maximum project reward
+    '''
+
     max = 0
     for arg in args:
         for item in arg:
@@ -57,6 +83,7 @@ def det_max(filt_lines, *args):
                 continue
     return max, location
 
+# Filters lines by date
 start_date = dt.datetime(2018, 7, 1).date()
 time_list = []
 for line in filt_lines:
