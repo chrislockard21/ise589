@@ -1,0 +1,74 @@
+First Name  ,Biosketch,Date Join,Position ,Program 1,Program 2,Program 3,Department,College
+Ashley,x,11/15/2015,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Yevgeny,,3/17/2017,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Bruce,,5/16/2016,Medical Director,FTE,,,NC Jaycee Burn Center,UNC-CH
+Ke,x,8/1/2013,Associate Professor,FTE,TPP,EID,Molecular Biomedical Sciences,CVM
+Jacqueline,,4/18/2018,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Michael,,11/15/2015,Assistant Professor,FTE,,,Electrical and Computer Engineering,COE
+Brian,,5/18/2018,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Matt,x,1/1/2014,Assistant Professor,FTE, TPP, ,Biomedical Engineering,NCSU/UNC-CH
+Donald,x,1/16/2016,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Troy,,8/1/2013,Assistant Professor,FTE,TPP, ,Molecular Biomedical Sciences,CVM
+Zhen,,4/16/2016,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Ola,,8/1/2013,Associate Professor,FTE,TPP,,Industrial and Systems Engineering,COE
+Hsiao-Ying,,5/18/2018,Associate Professor,FTE,,,Mechanical Engineering,COE
+Albert,x,6/16/2016,Assistant Professor,FTE,,,Chemical and Biomolecular Engineering,COE
+Julia,,8/16/2016,Asspciate Professor,FTE,,,Otolaryngology,UNC-CH
+Seth,,8/1/2013,Associate Professor,FTE,TPP,EID,Toxicology,COS
+Thomas,x,2/16/2016,Associate Professor,FTE,,,Materials Science & Engineering,COE
+Caroline,,9/17/2017,Assistant Professor,FTE, ,,Molecular Biomedical Sciences,CVM
+Frances,x,8/1/2013,Professor,FTE,,,Biomedical Engineering,COE
+Matthew,x,7/16/2016,Assistant Professor,FTE,,,Chemistry,UNC-CH
+Scott,,8/1/2013,Assistant Professor,FTE/TPP,,,Medicine,UNC-CH
+Kyle,x,8/1/2013,Professor,FTE,,,Clinical Sciences,CVM
+Stefano,,12/15/2015,Assistant Professor,FTE,,,Chemical and Biomolecular Engineering,COE
+Marie,,5/18/2018,Assistant Professor,FTE,,,Biomedical Engineering,COE
+Nanette,,8/1/2013,Assistant Professor,FTE,,,Molecular Biomedical Sciences ,CVM
+Jorge,x,8/1/2013,Professor,FTE,TPP, ,Molecular Biomedical Sciences ,CVM
+William,,8/1/2013,Assistant Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Li,x,8/1/2013,Assistant Professor,FTE,,,Pathology and Laboratory Medicine,UNC-CH
+Balaji,x,8/1/2013,Assistant Professor,FTE,TPP,EID,Chemical & Biomolecular Engineering,COE
+Marcelo,,8/1/2013,Associate Professor,FTE,TPP, ,Molecular Biomedical Sciences ,CVM
+Bob,,8/1/2013,Associate Professor,FTE,TPP, ,Molecular & Structural Biochemistry,CALS
+Adriana,x,6/16/2016,Assistant Professor,FTE,,,Chemical and Biomolecular Engineering,COE
+Phil,,8/1/2013,Professor,FTE,,,Molecular Biomedical Sciences ,CVM
+Michael,x,7/17/2017,Assistant Professor,FTE,,,Biomedical Engineering,COE
+Lauren,x,8/1/2015,Assistant Professor,FTE,TPP, ,Clinical Sciences,CVM
+Gabriela,x,8/1/2013,Associate Professor,FTE/TPP,EID,,Molecular Biomedical Sciences,CVM
+Rohan,x,8/1/2013,Assistant Professor,FTE,EID,,Industrial and Systems Engineering,COE
+Binil,x,8/1/2013,Associate Professor,FTE,TPP,EID,Industrial and Systems Engineering,COE
+Alan,,8/1/2013,Professor,FTE,,,"Textile Engineering, Chem & Sci",COT
+Marine,,8/18/2018,Assistant Professor,FTE,,,Clinical Sciences,CVM
+Shelly,,8/1/2013,Professor,FTE,,,Clinical Sciences,CVM
+Lenin,,10/17/2017,Assistant Professor,FTE,,,Clinical Sciences,CVM
+Andrew,,1/16/2016,Associate Professor,FTE,,,Radiation Oncology,UNC-CH
+Koudy,,8/1/2013,Professor,FTE,TPP,,Pathology,Wake Forest Univ
+Richard,,8/1/2013,Professor,FTE,,,Industrial and Systems Engineering,COE
+David,,9/16/2016,Associate Professor,FTE,,,Biomedical Engineering,NCSU/UNC-CH
+Kristy,,2/15/2015,Associate Professor,EID,FTE,TPP,School of Pharmacy,UNC-CH
+Anthony,,8/1/2013,Professor,TPP,FTE,,Clinical Sciences,CVM
+John,,8/1/2013,Professor,EID,FTE,,Biochemistry,CALS
+John,,8/1/2013,Professor,EOD,FTE,TPP,Population Health & Pathobiology,CVM
+Debora,,3/17/2017,Assistant Professor,TPP ,FTE,,Animal Science,COS
+Tracy,,8/1/2013,Clinical Asst. Professor,TPP,FTE,EID,Clinical Sciences,CVM
+Brian,,8/2/2013,Professor,TPP,FTE, ,Clinical Sciences,CVM
+Liara, ,8/3/2013,Resident,TPP,FTE,,Clinical Sciences,CVM
+Jim,,8/4/2013,Professor,EID,FTE/TPP,,Population Health & Pathobiology,CVM
+Jason,,8/5/2013,Professor,TPP,FTE,EID,Chemical Engineering,COE
+Eleanor,,8/6/2013,Professor,TPP,FTE, ,Clinical Sciences,CVM
+Megan,,8/7/2013,Assistant Professor,EID,FTE,,Population Health & Pathobiology,CVM
+Keith,,8/8/2013,Clinical Assoc Prof,TPP,FTE,EID,Population Health & Pathobiology,CVM
+Chris,,8/9/2013,Assistant Professor,TPP,FTE,EID,Clinical Sciences,CVM
+Marian, ,8/10/2013,Associate Dean,EID,FTE,TPP,"Textile Engineering, Chem & Sci",CNR
+Kristen,,1/1/2015,Lecturer,TPP,FTE,EID,Anesthesiology,CVM
+Paul,,8/9/2013,Professor,TPP,FTE, ,Poultry Science,CALS
+Mike,,8/10/2013,Assistant Professor,TPP,FTE,,Clinical Sciences,CVM
+Natasha,,8/11/2013,Professor,TPP,FTE,,Clinical Sciences,CVM
+Steve,,8/12/2013,Associate Professor,TPP,FTE,EID,Clinical Sciences,CVM
+Jonathan,,8/13/2013,Assistant Professor,EID,TPP,FTE,Population Health & Pathobiology,CVM
+Matthew,,8/14/2013,Associate Professor,EID,TPP,FTE,Poultry Science,CALS
+Mac,,8/15/2013,Professor,TPP,EID,FTE,Population Health & Pathobiology,CVM
+Christian,,11/1/2014,Associate Professor,EID,TPP,FTE,Animal Science,CALS
+Shila,,8/15/2013,Assistant Professor,EID,TPP,FTE,Molecular Biomedical Sciences,CVM
+Joshua,,8/16/2013,Assistant Professor,EID,TPP,FTE,Chemistry,COS
+Sid,,8/17/2013,Assistant Professor,EID,TPP,FTE,Population Health & Pathobiology,CVM
